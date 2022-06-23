@@ -56,9 +56,9 @@
                                     </div>
                                     <div class="form-group">
                                         <input type="password" class="form-control form-control-user"
-                                               id="exampleInputPassword" placeholder="Password" name="password">
+                                               id="exampleInputPassword" placeholder="Password..." name="password">
                                     </div>
-                                    <button type="submit" class="btn btn-primary btn-user btn-block">
+                                    <button type="submit" class="btn btn-primary btn-user btn-block ">
                                         Login
                                     </button>
                                 </form>
